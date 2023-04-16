@@ -3,6 +3,6 @@ Web-API for [waifu.pics](https://waifu.pics) website which is an image sharing p
 
 ## Example
 ```bash
-source waifu_pics.sh
+source ./waifu_pics.sh
 get_random_waifu "category" "tags" "hidden"
 ```
